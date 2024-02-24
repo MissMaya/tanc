@@ -1,0 +1,23 @@
+﻿SOURCE_UID,SOURCE_NAME,TARGET_UID,TARGET_NAME,RELATIONSHIP
+7451,A Wardman,7450,G Wardman,SPOUSE_OF
+7452,G Wardman,7450,G Wardman,CHILD_OF
+7453,E Wardman,7450,G Wardman,CHILD_OF
+7454,A Wardman,7450,G Wardman,CHILD_OF
+7455,A Wardman,7450,G Wardman,CHILD_OF
+7456,M Wardman,7450,G Wardman,CHILD_OF
+7457,E Wardman,7450,G Wardman,CHILD_OF
+7458,J Wardman,7450,G Wardman,CHILD_OF
+7459,A Wardman,7450,G Wardman,CHILD_OF
+7460,W Wardman,7450,G Wardman,CHILD_OF
+7452,G Wardman,7451,A Wardman,CHILD_OF
+7453,E Wardman,7451,A Wardman,CHILD_OF
+7454,A Wardman,7451,A Wardman,CHILD_OF
+7455,A Wardman,7451,A Wardman,CHILD_OF
+7456,M Wardman,7451,A Wardman,CHILD_OF
+7457,E Wardman,7451,A Wardman,CHILD_OF
+7458,J Wardman,7451,A Wardman,CHILD_OF
+7459,A Wardman,7451,A Wardman,CHILD_OF
+7460,W Wardman,7451,A Wardman,CHILD_OF
+10819,P Wardman,7450,G Wardman,GRANDCHILD_OF
+10819,P Wardman,7451,A Wardman,GRANDCHILD_OF
+11736,E Wardman,7450,G Wardman,NIECE_OF
