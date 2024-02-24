@@ -1,0 +1,19 @@
+﻿CENSUS,HOUSE_NO,STREET,ADDRESS,UID,ID,FORENAME,SURNAME,FULL_NAME,BIRTH_YEAR,PID,TOWN_BORN,OCCUPATION,MATERIAL
+1881,11,George St,11 George St,7450,1,George,Wardman,G Wardman,1834,G Wardman1834,Hampsthwaite,gardener,
+1881,11,George St,11 George St,7451,2,Anne,Wardman,A Wardman,1838,A Wardman1838,Sawley,dress maker,
+1881,11,George St,11 George St,7452,3,George,Wardman,G Wardman,1861,G Wardman1861,Mirfield,factory hand,
+1881,11,George St,11 George St,7453,4,Edward,Wardman,E Wardman,1863,E Wardman1863,Mirfield,factory hand,
+1881,11,George St,11 George St,7454,5,Alice,Wardman,A Wardman,1864,A Wardman1864,Almondbury,worsted spinner,worsted
+1881,11,George St,11 George St,7455,6,Annie,Wardman,A Wardman,1866,A Wardman1866,Bishop Thornton,worsted winder,worsted
+1881,11,George St,11 George St,7456,7,Mary,Wardman,M Wardman,1868,M Wardman1868,Birstwith,worsted spinner,worsted
+1881,11,George St,11 George St,7457,8,Ellen,Wardman,E Wardman,1869,E Wardman1869,Birstwith,worsted spinner,worsted
+1881,11,George St,11 George St,7458,9,John,Wardman,J Wardman,1873,J Wardman1873,Bingley,scholar,
+1881,11,George St,11 George St,7459,10,Arthur,Wardman,A Wardman,1875,A Wardman1875,Cleckheaton,scholar,
+1881,11,George St,11 George St,7460,11,William,Wardman,W Wardman,1879,W Wardman1879,Shipley,,
+1891,5,Katherine St,5 Katherine St,7450,1,George,Wardman,G Wardman,1834,G Wardman1834,Hampsthwaite,gardener,
+1891,5,Katherine St,5 Katherine St,7456,7,Mary,Wardman,M Wardman,1868,M Wardman1868,Birstwith,housekeeper,
+1891,5,Katherine St,5 Katherine St,7457,8,Ellen,Wardman,E Wardman,1869,E Wardman1869,Birstwith,silk spreader,silk
+1891,5,Katherine St,5 Katherine St,7459,10,Arthur,Wardman,A Wardman,1875,A Wardman1875,Cleckheaton,plush finisher,plush
+1891,5,Katherine St,5 Katherine St,10819,12,Percy,Wardman,P Wardman,1890,P Wardman1890,Shipley,,
+1901,13,Mary St,13 Mary St,7459,10,Arthur,Wardman,A Wardman,1875,A Wardman1875,Cleckheaton,mason labourer,
+1901,3,Albert Rd,3 Albert Rd,11736,13,Eleanor,Wardman,E Wardman,1876,E Wardman1876,Killinghall,ladys help,
